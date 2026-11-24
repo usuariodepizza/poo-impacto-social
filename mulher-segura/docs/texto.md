@@ -34,4 +34,4 @@ O diagrama de classes (`diagrama_classes.png`) conta com **12 classes/tipos**: `
 
 ## 4. Protótipo
 
-Código em Python com menu interativo de console e demonstração automática (`python main.py --demo`).
+Código em Python com menu interativo de console e demonstração automática (`python main.py --demo`). Repositório: https://github.com/usuariodepizza/poo-impacto-social
